@@ -1,0 +1,7 @@
+C:\Users\stu2000\source\repos\SimpleTCPClientServer\SimpleTCPClientServer\bin\Debug\SimpleTCPClientServer.exe.config
+C:\Users\stu2000\source\repos\SimpleTCPClientServer\SimpleTCPClientServer\bin\Debug\SimpleTCPClientServer.exe
+C:\Users\stu2000\source\repos\SimpleTCPClientServer\SimpleTCPClientServer\bin\Debug\SimpleTCPClientServer.pdb
+C:\Users\stu2000\source\repos\SimpleTCPClientServer\SimpleTCPClientServer\obj\Debug\SimpleTCPClientServer.csprojAssemblyReference.cache
+C:\Users\stu2000\source\repos\SimpleTCPClientServer\SimpleTCPClientServer\obj\Debug\SimpleTCPClientServer.csproj.CoreCompileInputs.cache
+C:\Users\stu2000\source\repos\SimpleTCPClientServer\SimpleTCPClientServer\obj\Debug\SimpleTCPClientServer.exe
+C:\Users\stu2000\source\repos\SimpleTCPClientServer\SimpleTCPClientServer\obj\Debug\SimpleTCPClientServer.pdb
